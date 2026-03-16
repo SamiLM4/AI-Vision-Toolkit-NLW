@@ -1,6 +1,8 @@
 # 👁️ AI Vision Toolkit - NLW Projeto 2
 
 ![AI Vision Banner](banner.png)
+<img width="1169" height="416" alt="image" src="https://github.com/user-attachments/assets/aa92d27f-29b4-49a8-ba37-8fcd6c7eb3cb" />
+
 
 Este projeto é uma exploração prática das fronteiras da Computação Visual e Inteligência Artificial Multimodal, desenvolvido durante o **NLW (Next Level Week)**. O repositório contém uma coleção de notebooks Jupyter que demonstram desde a classificação clássica até a segmentação avançada e integração com LLMs.
 
